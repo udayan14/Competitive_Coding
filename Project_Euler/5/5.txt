@@ -1,0 +1,3 @@
+This one was easy.
+Predefined the array of primes here.
+Just had to make an observation about what the output is exactly.

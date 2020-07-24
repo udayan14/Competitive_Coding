@@ -1,0 +1,4 @@
+This one was surely tougher than the first two.
+This one required checking whether the largest factor was 2 intially.
+All the other cases can be put in a for loop.
+The code implements the algorithm used by normal humans when they want to find the prime factorization of any number. This one just doesn't store the prime factorization, it stores the max prime factor.

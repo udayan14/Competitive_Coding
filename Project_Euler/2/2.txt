@@ -1,0 +1,1 @@
+Concept of loop invariant is tested. Overall a nice question(easy though),s

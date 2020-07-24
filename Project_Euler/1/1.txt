@@ -1,0 +1,3 @@
+Don't use brute force.
+Analyse the problem mathematically first. There is probably a neat formula for it.
+Finding remainder everytime is very expensive.
