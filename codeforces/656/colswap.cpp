@@ -43,21 +43,9 @@ int main(){
             continue;
         }
         vector<int> output;
-        for(int i=1 ; i<=n ; i++){
-            if(row1_count[row1[i]]==2 && row2_count[row2[i]]==2){
-                output.push_back(i);
-                row1_count[row1[i]]--;
-                row2_count[row2[i]]--;
-                row1_count[row2[i]]++;
-                row2_count[row1[i]]++;
-            }
-        }
-        for(int i=1 ; i<=n ; i++){
-            if(row1_count[i]!=1){
-                flag = false;
-                break;
-            }
-        }
+
+
+
         if(!flag){
             cout << -1 << "\n";
             continue;
